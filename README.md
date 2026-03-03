@@ -1,7 +1,7 @@
 # TheMathematician - A Hobby Project Made by Lafi Alasiri.
 TheMathematician is a simple function plotter program that visualizes functions made in C# for entertainment purposes.
 
-![Prototype1](images/Prototype1.png)
+![Prototype1](Images/Prototype1.png)
 
 
 # Pros and Cons
@@ -16,8 +16,9 @@ TheMathematician is a simple function plotter program that visualizes functions 
 2. Click on 'plug' button to graph the function.
 3. If you want to expand drawing limits, adjust the 'X Limit' and 'Y Limit', given that the maximum amount of value for each option is 100.
 
-    ![Prototype2](images/Prototype2.png)
+    ![Prototype2](Images/Prototype2.png)
 
 
 # Disclaimer
+
 This project is only made for entertainment purposes, and the intention behind it is completely non-commercial and it is open source for anyone.
